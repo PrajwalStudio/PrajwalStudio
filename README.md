@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">A passionate developer, AI enthusiast, and MCA student from SJEC 🚀</h3>
+<h3 align="center">Software Developer | AI Enthusiast | Tech Explorer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 MCA Student at **SJEC**
-- 🌱 Learning Full-Stack Development & AI/ML
-- 👨‍💻 Interested in **Software Development**, **Web**, and **AI Projects**
-- 🏆 2nd Place in inter-college coding competition
-- ✉️ Reach me at: `your.email@example.com`
+- 💡 Passionate about building scalable software solutions and intelligent systems
+- 🌱 Currently advancing in Full-Stack Development and AI/ML
+- 🔧 Skilled in Python, Java, JavaScript, React, Flask, MySQL, and MongoDB
+- 🏆 2nd Place – Inter-college coding competition
+- 📫 Reach me at: prajwalpoojary1712@gmail.com
 
 ---
 
@@ -29,16 +29,16 @@
 
 ### 🚀 Featured Projects
 
-- 🔐 [Password Strength Checker](https://github.com/PrajwalStudio/Password-Checker): A secure password evaluation tool using Python
-- 📰 [Byteblog](https://github.com/PrajwalStudio/Byteblog): Full PHP & MySQL blog system
+- 🔐 [Password Strength Checker](https://github.com/PrajwalStudio/Password-Checker): Secure password validation using Python and regex
+- 📰 [Byteblog](https://github.com/PrajwalStudio/Byteblog): A dynamic blogging system built with PHP and MySQL
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalStudio&show_icons=true&theme=radical" alt="Prajwal's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalStudio&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalStudio&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalStudio&theme=radical" width="48%" />
 </p>
 
 ---
@@ -46,14 +46,17 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/prajwal-poojary7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:prajwalpoojary1712@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PrajwalStudio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Proudly built using Markdown ✨</p>
+<p align="center">🔍 Always learning. Always building. Let's connect.</p>
