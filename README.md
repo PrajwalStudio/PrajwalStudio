@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">👋 Hi, I'm Prajwal Poojary</h1>
-<h3 style="text-align:center;">Software Developer | AI ML Enthusiast | Full-Stack Developer</h3>
+<h3 style="text-align:center;">Software Developer | AI & ML Enthusiast | Full-Stack Developer</h3>
 
 <hr/>
 
