@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">👋 Hi, I'm Prajwal Poojary</h1>
-<h3 style="text-align:center;">Software Developer | AI Enthusiast | Full-Stack Developer</h3>
+<h3 style="text-align:center;">Software Developer | AI & ML Enthusiast | Full-Stack Developer</h3>
 
 <hr/>
 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
-<h3>Tools & Platforms</h3>
+<h3>Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -42,36 +42,17 @@
 
 <hr/>
 
-<h2>📊 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalStudio&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalStudio&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalStudio&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrajwalStudio&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<hr/>
-
-<h2>🌐 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:prajwalpoojary1712@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<h2>🌐 Connect With Me</h2>
+<p style="text-align:center;">
+  <a href="mailto:prajwalpoojary1712@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/prajwal-poojary7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/prajwal-poojary7/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <hr/>
 
-<p style="text-align:center;">
-  <em>"First, solve the problem. Then, write the code." - John Johnson</em>
-</p>
+<p style="text-align:center;"><em>"First, solve the problem. Then, write the code." – John Johnson</em></p>
