@@ -1,4 +1,26 @@
 <h1 style="text-align:center;">👋 Hi, I'm Prajwal Poojary</h1>
+<h3 style="text-align:center;">Software Developer | AI Enthusiast | Full-Stack Developer</h3>
+
+<hr/>
+
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🎓 MCA Student | BCA Graduate</li>
+  <li>💻 Passionate about software development and AI</li>
+  <li>🌱 Currently learning System Design & Machine Learning</li>
+  <li>🤝 Open to collaboration on backend and AI-related projects</li>
+  <li>🧠 Quick learner with a logical approach to coding challenges</li>
+</ul>
+
+<hr/>
+
+<h2>🛠 Tech Stack</h2>
+
+<h3>Languages & Frameworks</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
