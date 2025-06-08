@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prajwal</h1>
-<h3 align="center">Software Developer | Full-Stack Learner | AI/ML Enthusiast</h3>
+<h3 align="center">Software Developer | AI Enthusiast | Full-Stack Learner</h3>
 
 <p align="center">
   <a href="https://github.com/PrajwalStudio">
@@ -11,41 +11,40 @@
 
 ### 🔍 About Me
 
-🎯 Focused on building scalable and intelligent software systems  
-🧠 Actively learning **Machine Learning**, **AI concepts**, and **data-driven development**  
-🔧 Strong foundation in Python, backend development, and databases  
-🏅 Placed 2nd in an inter-college coding competition  
+🎯 Focused on building clean, scalable, and intelligent software solutions  
+🚀 Passionate about AI, backend systems, and real-world applications  
+🧠 Constant learner in full-stack development, AI/ML, and system design  
+🏅 Proven team player with competition wins and hands-on projects  
 📬 Contact: **prajwalpoojary1712@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, Java, JavaScript  
-- **Backend:** Flask  
-- **Databases:** MySQL, MongoDB  
-- **Web Technologies:** HTML5, CSS3  
+#### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+#### 🧩 Backend & Databases
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-### 🤖 AI & Machine Learning Journey
+### 💼 Projects
 
-- 📘 Currently studying core ML algorithms, data preprocessing, and supervised learning  
-- 🔍 Exploring libraries like **NumPy**, **Pandas**, **Scikit-learn**, and **TensorFlow**  
-- 🧪 Participating in healthcare-related AI project research  
-- 🌐 Keen interest in combining AI with real-world applications
-
-> 🚀 *My mission is to bridge the gap between traditional development and intelligent automation.*
-
----
-
-### 💼 Featured Projects
-
-#### 🧠 [Password Strength Checker](https://github.com/PrajwalStudio/Password-Checker)  
-A secure password evaluation tool using Python, regex, and bcrypt
+#### 🔐 [Password Strength Checker](https://github.com/PrajwalStudio/Password-Checker)  
+Python-based password validation tool with bcrypt and regex logic
 
 #### 📰 [Byteblog](https://github.com/PrajwalStudio/Byteblog)  
-A complete blogging platform built using PHP, MySQL, and web technologies
+A complete blogging system using HTML, CSS, PHP, and MySQL
 
 ---
 
@@ -75,5 +74,5 @@ A complete blogging platform built using PHP, MySQL, and web technologies
 ---
 
 <p align="center">
-  🧠 *Learning never stops – building the future one model at a time.*
+  🚀 *Code. Learn. Improve. Repeat.*
 </p>
