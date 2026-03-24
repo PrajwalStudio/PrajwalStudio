@@ -1,147 +1,77 @@
-<!-- ============================================================
-     PRAJWAL J POOJARY — GitHub Profile README
-     ============================================================ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║              PRAJWAL J POOJARY  //  Full Stack Dev           ║
-║        MERN · Flask · PostgreSQL · MongoDB · ML              ║
-║              Available for roles · Jun 2026                  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Prajwal J Poojary
 
-[![Gmail](https://img.shields.io/badge/prajwalpoojary1712@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwalpoojary1712@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/prajwal--poojary7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-poojary7/)
-[![Location](https://img.shields.io/badge/Mangalore%2C%20Karnataka-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/mangalore)
+**Full-Stack Developer · MCA '26 · Mangalore, India**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00ADB5&center=true&vCenter=true&width=460&lines=MERN+Stack+Developer;Flask+%7C+React+%7C+Node.js+%7C+MongoDB;Open+to+opportunities+from+July+2026)](https://git.io/typing-svg)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwalpoojary1712@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-poojary7/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prajwalpoojary17)
 
 </div>
 
 ---
 
-## `$ cat experience.log`
+## About
 
-**Codelab Systems, Mangalore** — *Full Stack Developer Intern* `Feb 2026 – Present`
-- Working on MERN stack: React architecture, state management, API integration
-- Contributed to 3+ feature modules; Git branching, code reviews, modular project structure
-
-**LaunchEd Global, Remote** — *Full Stack Developer Intern* `May – Jun 2025`
-- Built and deployed a full-stack cab booking application end-to-end
-- Developed 10+ REST APIs (Node.js/Express), JWT authentication, PostgreSQL integration
+```javascript
+const prajwal = {
+  location   : "Mangalore, Karnataka 🇮🇳",
+  education  : "MCA @ SJEC, Mangalore  —  CGPA 9.06  —  July 2026",
+  currentRole: "Full Stack Intern @ Codelab Systems",
+  focus      : ["Full-Stack Development", "REST APIs", "ML-driven apps"],
+  lookingFor : "Full-Stack Developer roles · July 2026"
+};
+```
 
 ---
 
-## `$ ls ./projects`
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 CricNex — Cricket Analytics Platform
-`Nov 2025`
-
-ML-driven platform predicting player performance across 3+ metrics. Flask APIs, MongoDB storage, interactive React dashboard.
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![ML](https://img.shields.io/badge/Pandas%20%2F%20NumPy-150458?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟡 Cab Booking Portal
-`Jun 2025`
-
-Role-based system with 3 dashboards (admin / employee / vendor). JWT auth, normalized PostgreSQL schema, 10+ RESTful APIs.
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 ByteBlog — Blogging System
-`May 2024`
-
-Multi-user blogging platform with session-based auth, full CRUD, and responsive UI.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚪ Medithon — StressSlayer Prototype
-`Jun 2025`
-
-Frontend prototype built during Medithon Ideathon for a stress-relief product concept.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-</tr>
-</table>
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## `$ cat skills.json`
+## Projects
 
-```json
-{
-  "languages"  : ["JavaScript (ES6+)", "Python", "Java", "PHP"],
-  "frontend"   : ["React.js", "React Hooks", "HTML5", "CSS3", "Responsive Design"],
-  "backend"    : ["Node.js", "Express.js", "Flask", "RESTful API Design"],
-  "databases"  : ["MongoDB", "PostgreSQL", "MySQL"],
-  "tools"      : ["Git", "GitHub", "JWT", "VS Code", "Agile Basics"],
-  "currently_learning": ["Deep JS (closures, event loop, async)", "System Design", "DSA"]
-}
-```
+| Project | Description | Stack |
+|---|---|---|
+| 🏏 **[CricNex](#)** | ML-driven cricket player analytics & performance prediction | Python, Flask, React, MongoDB |
+| 🚕 **[Cab Booking Portal](#)** | Role-based booking system with JWT auth & 3 dashboards | Node.js, Express, React, PostgreSQL |
+| ✍️ **[ByteBlog](#)** | Multi-user blogging platform with CRUD & session auth | PHP, MySQL, HTML/CSS |
 
 ---
 
-## `$ cat certifications.txt`
+## Currently
 
-```
-[2026-01] Master React.js with AI: From Basics to Advanced         — Udemy
-[2026-01] Python for Data Science Pro: The Complete Mastery Course — Udemy
-[2025-06] Generative AI                                            — LinkedIn Learning
-```
-
-## `$ cat activities.txt`
-
-```
-[2025-06] Medithon Ideathon          — Built StressSlayer frontend prototype
-[2025-03] AI & ML Workshop           — NITK Surathkal
-[2025-01] GitHub Copilot Workshop    — SJEC Mangalore (HackersMang)
-```
-
----
-
-## `$ git log --oneline --graph` *(what I'm shipping next)*
-
-```
-* [Apr–May 2026]  Polished capstone projects + mock interviews
-* [Mar–Apr 2026]  Deep JS, Node internals, React patterns
-* [Feb–Mar 2026]  Absorbing React in real codebase @ Codelab Systems
-* [Jun  2026]     Target: Full Stack Developer role  ← you are here
+```bash
+[✔] Full Stack Intern @ Codelab Systems — React, APIs, team workflows
+[⟳] Deepening JS internals — closures, async/await, event loop
+[⟳] LeetCode — one problem a day
+[◻] Job-ready by July 2026
 ```
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"First, solve the problem. Then, write the code."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prajwalpoojary.prajwalpoojary)
+![Visitor Count](https://komarev.com/ghpvc/?username=prajwalpoojary17&style=flat-square&color=00ADB5&label=views)
 
 </div>
